@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>ellipses</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>net.sourceforge.texlipse.builder.TexlipseBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>net.sourceforge.texlipse.builder.TexlipseNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>Rpackages.bib</name>
+			<type>1</type>
+			<location>/home/friendly/texmf/bibtex/bib/Rpackages.bib</location>
+		</link>
+		<link>
+			<name>graphics.bib</name>
+			<type>1</type>
+			<location>/home/friendly/texmf/bibtex/bib/graphics.bib</location>
+		</link>
+		<link>
+			<name>timeref.bib</name>
+			<type>1</type>
+			<location>/home/friendly/SCS/Gallery/milestone/Private/timeref.bib</location>
+		</link>
+	</linkedResources>
+</projectDescription>
